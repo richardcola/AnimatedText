@@ -2,16 +2,16 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
     background-color: black;
 }
 
-
 h1 {
-   font-size: 7rem;
-   font-family: fantasy; 
+    font-size: 4rem;
+    font-family: fantasy; 
+    letter-spacing: 0.1em;
+    line-height: 1.2em;
 }
 
 .letter {
-  transition: color 777ms;
+    transition: color 777ms;
 }
