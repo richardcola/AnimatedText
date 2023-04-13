@@ -19,21 +19,21 @@ h1 {
 /* Smaller screens */
 @media only screen and (max-width: 600px) {
   h1 {
-    font-size: 3.5rem;
-    line-height: 1.2;
+    font-size: 2.0rem;
+    line-height: 1;
   }
   .letter {
-    font-size: 3.5rem;
+    font-size: 2.0rem;
   }
 }
 
 /* Larger screens */
 @media only screen and (min-width: 601px) {
   h1 {
-    font-size: 7rem;
+    font-size: 2rem;
     line-height: 1;
   }
   .letter {
-    font-size: 7rem;
+    font-size: 2rem;
   }
 }
